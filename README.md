@@ -10,7 +10,7 @@ Pico TPM SPIder is designed to capture TPM SPI traffic clocked at 10MHz to 50MHz
 Lower frequencies can be supported by modifying [sniffer.pio](https://github.com/decrazyo/pico-tpm-spider/blob/main/sniffer.pio).
 Higher frequencies may be supported through overclocking.
 
-<!-- TODO: add link to cyphercon talk -->
+[Watch the video!](https://www.youtube.com/watch?v=U-wuOeI9vQg)
 
 ## Compatibility
 
